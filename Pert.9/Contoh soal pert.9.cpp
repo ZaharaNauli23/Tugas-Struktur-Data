@@ -30,3 +30,4 @@ void BUAT_SIMPUL(int x) {
         cout << "Pembuatan Simpul Gagal" << endl;
 }
 
+
